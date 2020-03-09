@@ -60,6 +60,7 @@ textarea{
 }
 .command{
   font-size:12px;
+  float:right;
 }
 h3{
   font-size: 14px;
