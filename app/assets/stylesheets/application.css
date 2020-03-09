@@ -44,6 +44,11 @@ ul>li{
   font-weight: normal;
   float:right;
 }
+.bottom_message{
+  text-align: right;
+  color: red
+}
+
 input[type="text"],textarea{
   box-sizing: border-box;
   width: 400px;
